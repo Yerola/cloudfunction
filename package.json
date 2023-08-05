@@ -1,0 +1,20 @@
+{
+  "name": "cloudfunction",
+  "version": "1.0.0",
+  "description": "NA",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest test.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "install": "0.13.0",
+    "npm": "9.8.1",
+    "ts-node": "10.9.1",
+    "typescript": "5.1.6"
+  },
+  "dependencies": {
+    "firebase-admin": "11.10.1"
+  }
+}
