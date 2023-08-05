@@ -20,8 +20,8 @@ There is no need to actually deploy the function to the cloud, but we recommend 
 Part 3: 
 <br/>
 What else would you do if this were to be deployed to production? No need to do any of this —just provide a list of things.
+<br/>
 ## Recommends:
-
 <hr/>
 Part 3:
 If this function were to be deployed to production, here are some additional considerations and best practices to ensure its reliability, security, and performance:
