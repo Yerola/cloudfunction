@@ -5,6 +5,7 @@ Trial Task 2
 <hr/>
 Part 1: 
 • Your task is to locally build a function that could be deployed to the cloud. 
+<br/>
 • We would use firebase if we deployed the function, but to develop and test locally, create a json file called score Data with the following schema and a few mock entries {"teamName": "example123456789", score: 4} where the score is a float between 0 and 10. 
 • Write a typescript function that pulls all documents from this collection and calculates the 10th, 50th, and 90th percentile of the scores. Store the result in a reasonable data structure to a separate json object. 
 <hr/>
